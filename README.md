@@ -20,9 +20,9 @@
 
 * ` git branch -m main master`
 
-*`git fetch origin`
+* ` git fetch origin`
 
-*`git branch -u origin/master master`
+* ` git branch -u origin/master master`
 
-*`git remote set-head origin -a`
+* ` git remote set-head origin -a`
 
